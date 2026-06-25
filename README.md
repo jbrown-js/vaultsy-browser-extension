@@ -25,7 +25,7 @@ Built as an extension of the **Vaultsy** project, this tool provides quick acces
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/vaultsy-extension.git
+git clone https://github.com/jbrown-js/vaultsy-extension.git
 ```
 
 2. Open Chrome and navigate to:
